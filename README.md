@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Varadarajan-M
 - 👀 I’m interested in Full Stack Web Development  
-- 🌱 I’m currently learning React JS 
-- 📫 How to reach me varad2k12@gmail.com
+- 🌱 I’m currently learning React JS. 
+- 📫 How to reach me [Mail](varad2k12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/varadarajan-m-724512164/)
 
 <!---
 Varadarajan-M/Varadarajan-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
