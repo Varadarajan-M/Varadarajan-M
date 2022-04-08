@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Varadarajan-M
 - 👀 I’m interested in Full Stack Web Development  
-- 🌱 I’m currently learning React JS. 
+- 🌱 I’m currently learning Python. 
 - 📫 How to reach me [Mail](mailto:varad2k12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/varadarajan-m-724512164/)
 
 <!---
