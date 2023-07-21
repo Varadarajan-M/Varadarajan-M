@@ -7,7 +7,7 @@
 
 🤝 I’m looking for help with DevOps.
 
-🌱 I’m currently learning Next JS, Java.
+🌱 I’m currently learning Golang.
 
 ## 🌐Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varadarajan-m-724512164) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vk_.31)
