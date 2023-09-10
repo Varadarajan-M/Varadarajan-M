@@ -1,13 +1,11 @@
 #  About Me
 👋 Hi I'm Varadarajan M
 
-🔭 I’m currently working at Infosys.
+🔭 I’m currently working at Genpro Research.
 
 👯 I’m looking to collaborate on Web and Mobile Application development Projects.
 
 🤝 I’m looking for help with DevOps.
-
-🌱 I’m currently learning Golang.
 
 ## 🌐Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varadarajan-m-724512164) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vk_.31)
