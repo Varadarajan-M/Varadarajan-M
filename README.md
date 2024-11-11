@@ -1,7 +1,7 @@
 #  About Me
 👋 Hi I'm Varadarajan M
 
-🔭 I’m currently working at Genpro Research.
+🔭 I’m currently working at Rize.
 
 👯 I’m looking to collaborate on Web and Mobile Application development Projects.
 
